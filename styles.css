@@ -3,13 +3,24 @@ header{
     width: 100%;
     height: 300px;
     background-color: #1F2937;
-    color: #F9FAF8;
     align-items: center;
     position:absolute;
     top: 0;
     left: 0;
     right: 0;
    
+}
+.header .logo{
+    color: #F9FAF8;
+    font-size:24px;
+}
+.content h1{
+    font-size: 48px;
+    color:#F9FAF8;
+}
+.links a, .content p{
+    color: #E5E7EB;
+    font-size: 18px;
 }
 .header{
     display: flex;
@@ -19,7 +30,7 @@ header{
 }
 .header a, .logo {
     padding-right: 16px;
-    color: #F9FAF8;
+    
     text-decoration: none;
 
 }
@@ -62,7 +73,6 @@ footer {
     position: absolute;
     width: 100%;
     height: 50px;
-
     background-color: #1F2937;
     left: 0;
     bottom: 0;
@@ -71,7 +81,6 @@ p.copyright {
     position: absolute;
     width: 100%;
     color: #F9FAF8;
-    font-weight: bold;
     text-align: center;
 
 }
