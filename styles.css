@@ -52,3 +52,13 @@ img{
     padding: 8px 32px;
     border-radius: 12px;
 }
+.footer{
+    text-align: center;
+    padding: 5px;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
