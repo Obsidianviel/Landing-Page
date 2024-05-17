@@ -21,6 +21,5 @@ This project offers a landing page template designed to showcase a product or se
 - Footer positioned at the bottom with copyright details.
 
 **Usage:**
-1. Clone the repository.
-2. Open https://kommairi.github.io/Landing-Page/ in a web browser.
+Open: https://kommairi.github.io/Landing-Page/ in a web browser.
 
