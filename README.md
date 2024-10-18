@@ -21,5 +21,5 @@ This project offers a landing page template designed to showcase a product or se
 - Footer positioned at the bottom with copyright details.
 
 **Usage:**
-Open: https://kommairi.github.io/Landing-Page/ in a web browser.
+Open: https://obsidianviel.github.io/Landing-Page/ in a web browser.
 
